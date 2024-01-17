@@ -3,6 +3,6 @@ hola hola
 # Experiencia Laboral
 
 # Formación académica
-hola
+hola hola
 # Reconocimientos y premios
 
